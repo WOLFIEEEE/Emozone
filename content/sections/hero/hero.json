@@ -1,0 +1,18 @@
+{
+  "intro": "Hej",
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "I'm Emozone",
+  "subtitle": {
+    "prefix": "I make things easy",
+    "highlight": "for you",
+    "suffix": "."
+  },
+  "description": "Expressions make up the most essential part of human emotion analysis, whether being the facial ones or the written ones, or any other. We add machine learning to that emotion",
+  "socialProfiles": {
+    "from": ["Github", "Mail"],
+    "showIcons": true
+  }
+}
